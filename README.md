@@ -1,2 +1,2 @@
 # go-kernel-list
-go simulator linux kernel list
+go simulate linux kernel list
